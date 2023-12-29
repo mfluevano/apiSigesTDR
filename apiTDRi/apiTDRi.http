@@ -1,0 +1,6 @@
+@apiTDRi_HostAddress = http://localhost:5108
+
+GET {{apiTDRi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
